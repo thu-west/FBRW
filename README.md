@@ -1,4 +1,4 @@
-Code Contributors: Kaixin Liu
+Code Contributor: Kaixin Liu
 
 If you have any questions, feel free to contact me. My email is lkx17@mails.tsinghua.edu.cn.
 
