@@ -111,5 +111,3 @@ $ ./fbrw gen-exact-topk --prefix ./data/ --dataset pokec --k 500 --query_size 10
 $ ./fbrw gen-exact-self --prefix ./data/ --dataset pokec --k 500 --query_size 100 --exact_ppr_path ./exact/
 ```
 
-```
-
