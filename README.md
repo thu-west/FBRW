@@ -2,7 +2,7 @@ Code Contributors: Kaixin Liu
 
 If you have any questions, feel free to contact me. My emails is: lkx17@mails.tsinghua.edu.cn.
 
-Plase cite our paper if you choose to use our code. 
+Please cite our paper if you choose to use our code. 
 
 ```
 @article{
