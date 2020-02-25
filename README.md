@@ -13,7 +13,7 @@ Please cite our paper if you choose to use our code.
 }
 ```
 
-# Single Source Personalized PageRank
+# Single Source Discounted Hitting Time
 
 ## Tested Environment
 - Ubuntu
@@ -41,7 +41,7 @@ $ make
 - algo: which algorithm you prefer to run
     - montecarlo: Monte Carlo
     - dne: Dynamic neighborhood expansion
-    - fora_bippr: fora and bippr
+    - fora_bippr: Fora and bippr
     - fbrw: FBRW
 - options
     - --prefix \<prefix\>
