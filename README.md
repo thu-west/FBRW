@@ -6,8 +6,8 @@ Plase cite our paper if you choose to use our code.
 
 ```
 @article{
-  title={Instance Explainable Multi-Instance Learning for ROI of Various Data},
-  author={Xu Zhao, Zihao Wang, Yong Zhang and Chunxiao Xing},
+  title={An Efficient Approximate Algorithm for Single-Source Discounted Hitting Time Query},
+  author={Kaixin Liu, Yong Zhang, Chunxiao Xing},
   booktitle={DASFAA},
   year={2020},
 }
