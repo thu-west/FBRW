@@ -1,6 +1,6 @@
 Code Contributors: Kaixin Liu
 
-If you have any questions, feel free to contact me. My emails is: lkx17@mails.tsinghua.edu.cn.
+If you have any questions, feel free to contact me. My email is: lkx17@mails.tsinghua.edu.cn.
 
 Please cite our paper if you choose to use our code. 
 
