@@ -5,11 +5,31 @@ If you have any questions, feel free to contact me. My email is lkx17@mails.tsin
 Please cite our paper if you choose to use our code. 
 
 ```
-@article{
-  title={An Efficient Approximate Algorithm for Single-Source Discounted Hitting Time Query},
-  author={Kaixin Liu, Yong Zhang, Chunxiao Xing},
-  booktitle={DASFAA},
-  year={2020},
+@inproceedings{DBLP:conf/dasfaa/LiuZX20b,
+  author    = {Kaixin Liu and
+               Yong Zhang and
+               Chunxiao Xing},
+  editor    = {Yunmook Nah and
+               Bin Cui and
+               Sang{-}Won Lee and
+               Jeffrey Xu Yu and
+               Yang{-}Sae Moon and
+               Steven Euijong Whang},
+  title     = {An Efficient Approximate Algorithm for Single-Source Discounted Hitting
+               Time Query},
+  booktitle = {Database Systems for Advanced Applications - 25th International Conference,
+               {DASFAA} 2020, Jeju, South Korea, September 24-27, 2020, Proceedings,
+               Part {III}},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {12114},
+  pages     = {237--254},
+  publisher = {Springer},
+  year      = {2020},
+  url       = {https://doi.org/10.1007/978-3-030-59419-0\_15},
+  doi       = {10.1007/978-3-030-59419-0\_15},
+  timestamp = {Fri, 25 Sep 2020 12:46:11 +0200},
+  biburl    = {https://dblp.org/rec/conf/dasfaa/LiuZX20b.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 
